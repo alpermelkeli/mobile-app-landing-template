@@ -56,11 +56,7 @@ function Features() {
             )}
           >
             <div className="relative mb-4 mt-4">
-              <div
-                className={clsx(
-                  "absolute left-0 right-0 top-0 bottom-0 bg-secondary/50 -z-10 rounded-lg"
-                )}
-              />
+            <div className="absolute left-0 right-0 top-0 bottom-0 bg-transparent -z-10 rounded-lg" />
               <figure className="py-4">
                 <img
                   src={feat.icon}

@@ -10,7 +10,7 @@ const planImages = [
   "/misc/locker-front-color.webp",
 ];
 
-const planBGs = ["bg-primary/80", "bg-secondary/80", "bg-accent/80"];
+const planBGs = ["bg-primary/0", "bg-secondary/0", "bg-accent/0"];
 
 function Pricing() {
   const {
