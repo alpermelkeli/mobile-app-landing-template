@@ -242,11 +242,11 @@ const templateConfig: TemplateConfig = {
     },
     content: `# Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-02-18
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). [Your Company Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
+Welcome to Studo Amigo (the "App"). alpermelkeli ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our App.
 
 ## Information We Collect
 
@@ -279,7 +279,7 @@ We do not share your personal information with third parties except in the follo
 ## Your Rights and Choices
 
 - **Access and Correction:** You have the right to access and correct the personal information we hold about you.
-- **Data Deletion:** You may request that we delete your personal information by contacting us at [Your Contact Information].
+- **Data Deletion:** You may request that we delete your personal information by contacting us at alpermelkeli@gmail.com.
 - **Opt-Out:** You may opt out of receiving promotional communications from us by following the instructions in those communications.
 
 ## Security
@@ -294,10 +294,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+alpermelkeli  
+
+alpermelkeli@gmail.com 
 
 `,
   },
@@ -308,11 +307,11 @@ If you have any questions or concerns about this Privacy Policy, please contact 
     },
     content: `# Cookies Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-02-18
 
 ## Introduction
 
-This Cookies Policy explains how [Your Company Name] ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, [Your App Name] (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
+This Cookies Policy explains how alpermelkeli ("we," "our," or "us") uses cookies and similar technologies to recognize you when you visit our app, Studo Amigo (the "App"). It explains what these technologies are and why we use them, as well as your rights to control their use.
 
 ## What Are Cookies?
 
@@ -367,10 +366,10 @@ We may update this Cookies Policy from time to time. We will notify you of any c
 
 If you have any questions or concerns about our use of cookies, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+alpermelkeli
+
+alpermelkeli@gmail.com  
+
 `,
   },
   termsAndConditions: {
@@ -380,16 +379,16 @@ If you have any questions or concerns about our use of cookies, please contact u
     },
     content: `# Terms and Conditions
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-02-18
 
 ## Introduction
 
-Welcome to [Your App Name] (the "App"). These Terms and Conditions ("Terms") govern your use of the App provided by [Your Company Name] ("we," "our," or "us"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+Welcome to Studo Amigo (the "App"). These Terms and Conditions ("Terms") govern your use of the App provided by alpermelkeli ("we," "our," or "us"). By accessing or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
 
 ## Use of the App
 
 ### 1. Eligibility
-To use our App, you must be at least [Insert Age] years old and capable of entering into a legally binding agreement. By using the App, you represent and warrant that you meet these eligibility requirements.
+To use our App, you must be at least 13 years old and capable of entering into a legally binding agreement. By using the App, you represent and warrant that you meet these eligibility requirements.
 
 ### 2. User Accounts
 - **Registration:** You may be required to create an account to access certain features of the App. You must provide accurate and complete information when creating your account.
@@ -444,10 +443,10 @@ We may update these Terms from time to time. We will notify you of any changes b
 
 If you have any questions or concerns about these Terms, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Email Address]  
-[Phone Number (optional)]
+alpermelkeli
+
+alpermelkeli@gmail.com
+
 `,
   },
 };
