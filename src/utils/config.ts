@@ -96,12 +96,12 @@ const templateConfig: TemplateConfig = {
       ],
     },
     partners: {
-      title: "As seen on",
+      title: "Partners",
       logos: [
-        "/misc/companies/apple.svg",
-        "/misc/companies/aws.svg",
+        //"/misc/companies/apple.svg",
+        //"/misc/companies/aws.svg",
         "/misc/companies/google.svg",
-        "/misc/companies/tumblr.svg",
+        //"/misc/companies/tumblr.svg",
       ],
     },
     howItWorks: {
@@ -142,28 +142,28 @@ const templateConfig: TemplateConfig = {
         "Use AI to enhance your study experience and achieve better results",
       cards: [
         {
-          title: "Seamless Integration",
+          title: "Easy To Use",
           subtitle:
             "Connect effortlessly with all your devices, ensuring smooth and efficient workflows across different platforms and applications without any disruptions",
-          icon: "/3D/link-front-color.webp",
+          icon: "/icons/ic_easy_use.png",
         },
         {
-          title: "24/7 Customer Support",
+          title: "Customer Support",
           subtitle:
             "Get assistance whenever you need it with our dedicated customer support team, available around the clock to help resolve any issues you may encounter",
-          icon: "/3D/clock-front-color.webp",
+          icon: "/icons/ic_cloud.png",
         },
         {
-          title: "Intuitive Design",
+          title: "User Friendly Design",
           subtitle:
             "Navigate through our intuitive and easy-to-use interface designed to enhance user experience, making it accessible for users of all skill levels",
-          icon: "/3D/roll-brush-front-color.webp",
+          icon: "/icons/ic_electric.png",
         },
         {
           title: "Top-Notch Security",
           subtitle:
             "Protect your data with our top-notch security protocols, offering robust encryption and real-time monitoring to keep your information safe and secure",
-          icon: "/3D/sheild-front-color.webp",
+          icon: "/icons/ic_security.png",
         },
       ],
     },
