@@ -16,7 +16,7 @@ const templateConfig: TemplateConfig = {
   showThemeSwitch: true,
   appStoreLink: "https://apps.apple.com/us/app/google/id284815942",
   googlePlayLink:
-    "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+    "https://play.google.com/store/apps/details?id=com.alpermelkeli.studybuddyandroid",
   footer: {
     legalLinks: {
       termsAndConditions: true,
@@ -204,8 +204,9 @@ const templateConfig: TemplateConfig = {
       plans: [
         {
           title: "Basic",
-          price: "$2.99",
-          rows: ["100 credit",
+          price: "$1.99",
+          rows: [
+            "100 credit",
             "Access to all features",
             "24/7 support",
             "Google Gemini 1.5 pro"
@@ -213,7 +214,7 @@ const templateConfig: TemplateConfig = {
         },
         {
           title: "Standard",
-          price: "$9.99",
+          price: "$4.99",
           featured: true,
           rows: [
             "500 credit",
@@ -224,7 +225,7 @@ const templateConfig: TemplateConfig = {
         },
         {
           title: "Premium",
-          price: "$29.99",
+          price: "$24.99",
           rows: [
             "2000 credit",
             "24/7 support",
